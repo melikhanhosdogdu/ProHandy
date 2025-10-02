@@ -1,0 +1,60 @@
+{
+  "explore": {
+    "title": "Explorar",
+    "subtitle": "Esta aplicación incluye código de ejemplo para ayudarte a comenzar.",
+    "sections": {
+      "fileBasedRouting": {
+        "title": "Enrutamiento basado en archivos",
+        "description": "Esta aplicación tiene dos pantallas:",
+        "layoutInfo": "El archivo de diseño en",
+        "layoutLocation": "configura el navegador de pestañas.",
+        "learnMore": "Aprende más"
+      },
+      "platformSupport": {
+        "title": "Soporte para Android, iOS y web",
+        "description": "Puedes abrir este proyecto en Android, iOS y la web. Para abrir la versión web, presiona",
+        "inTerminal": "en el terminal ejecutando este proyecto."
+      },
+      "images": {
+        "title": "Imágenes",
+        "description": "Para imágenes estáticas, puedes usar los",
+        "and": "y",
+        "suffixes": "sufijos para proporcionar archivos para diferentes densidades de pantalla",
+        "learnMore": "Aprende más"
+      },
+      "colorModes": {
+        "title": "Componentes de modo claro y oscuro",
+        "description": "Esta plantilla tiene soporte para modo claro y oscuro. El",
+        "hook": "hook te permite inspeccionar cuál es el esquema de color actual del usuario, para que puedas ajustar los colores de la interfaz en consecuencia.",
+        "learnMore": "Aprende más"
+      },
+      "animations": {
+        "title": "Animaciones",
+        "description": "Esta plantilla incluye un ejemplo de un componente animado. El",
+        "component": "componente utiliza la poderosa",
+        "library": "biblioteca para crear una animación de mano saludando.",
+        "parallaxDescription": "componente proporciona un efecto de paralaje para la imagen del encabezado."
+      }
+    }
+  },
+  "tabs": {
+    "home": "Inicio",
+    "explore": "Explorar",
+    "settings": "Configuración"
+  },
+  "settings": {
+    "title": "Configuración",
+    "language": "Idioma",
+    "selectLanguage": "Seleccionar Idioma",
+    "english": "Inglés",
+    "spanish": "Español",
+    "appInfo": "Información de la App",
+    "version": "Versión",
+    "build": "Compilación",
+    "preferences": "Preferencias",
+    "comingSoon": "Más configuraciones próximamente..."
+  },
+  "common": {
+    "close": "Cerrar"
+  }
+}

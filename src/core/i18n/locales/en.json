@@ -1,0 +1,60 @@
+{
+  "explore": {
+    "title": "Explore",
+    "subtitle": "This app includes example code to help you get started.",
+    "sections": {
+      "fileBasedRouting": {
+        "title": "File-based routing",
+        "description": "This app has two screens:",
+        "layoutInfo": "The layout file in",
+        "layoutLocation": "sets up the tab navigator.",
+        "learnMore": "Learn more"
+      },
+      "platformSupport": {
+        "title": "Android, iOS, and web support",
+        "description": "You can open this project on Android, iOS, and the web. To open the web version, press",
+        "inTerminal": "in the terminal running this project."
+      },
+      "images": {
+        "title": "Images",
+        "description": "For static images, you can use the",
+        "and": "and",
+        "suffixes": "suffixes to provide files for different screen densities",
+        "learnMore": "Learn more"
+      },
+      "colorModes": {
+        "title": "Light and dark mode components",
+        "description": "This template has light and dark mode support. The",
+        "hook": "hook lets you inspect what the user's current color scheme is, and so you can adjust UI colors accordingly.",
+        "learnMore": "Learn more"
+      },
+      "animations": {
+        "title": "Animations",
+        "description": "This template includes an example of an animated component. The",
+        "component": "component uses the powerful",
+        "library": "library to create a waving hand animation.",
+        "parallaxDescription": "component provides a parallax effect for the header image."
+      }
+    }
+  },
+  "tabs": {
+    "home": "Home",
+    "explore": "Explore",
+    "settings": "Settings"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "selectLanguage": "Select Language",
+    "english": "English",
+    "spanish": "Spanish",
+    "appInfo": "App Information",
+    "version": "Version",
+    "build": "Build",
+    "preferences": "Preferences",
+    "comingSoon": "More settings coming soon..."
+  },
+  "common": {
+    "close": "Close"
+  }
+}
